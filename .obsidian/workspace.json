@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fc67ac21988438ed",
+        "id": "cddc12b351cdaa75",
         "type": "tabs",
         "children": [
           {
-            "id": "ad20a4e4f5addb64",
+            "id": "140e7d75bed74ab1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test#1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Test#1"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test#1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test#1"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test#1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test#1"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,21 +151,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test#1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test#1"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad20a4e4f5addb64",
+  "active": "140e7d75bed74ab1",
   "lastOpenFiles": [
-    "New Text Document.txt",
     "Test#2.md",
-    "Test#1.md"
+    "Test#1.md",
+    "Untitled",
+    "New Text Document.txt"
   ]
 }
