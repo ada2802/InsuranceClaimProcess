@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "add_file_git.md",
+                "file": "Test#1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "add_file_git"
+              "title": "Test#1"
             }
           }
         ]
@@ -184,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eba750439eee956c",
+  "active": "140e7d75bed74ab1",
   "lastOpenFiles": [
     "add_file_git.md",
     "Test#2.md",
