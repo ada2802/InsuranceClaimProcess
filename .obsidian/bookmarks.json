@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1776714334395,
+      "items": [],
+      "title": "raw"
+    },
+    {
+      "type": "group",
+      "ctime": 1776714358016,
+      "items": [],
+      "title": "wiki"
+    },
+    {
+      "type": "group",
+      "ctime": 1776714373922,
+      "items": [],
+      "title": "templates"
+    }
+  ]
+}
