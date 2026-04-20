@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "add_file_git.md",
+                "file": "Test#1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for add_file_git"
+              "title": "Backlinks for Test#1"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "add_file_git.md",
+                "file": "Test#1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from add_file_git"
+              "title": "Outgoing links from Test#1"
             }
           },
           {
@@ -143,7 +144,7 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
@@ -156,17 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "add_file_git.md",
+                "file": "Test#1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of add_file_git"
+              "title": "Outline of Test#1"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "140e7d75bed74ab1",
+  "active": "a1a9cef67c667b82",
   "lastOpenFiles": [
     "add_file_git.md",
     "Test#2.md",
